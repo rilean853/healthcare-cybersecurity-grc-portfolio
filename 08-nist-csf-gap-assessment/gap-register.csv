@@ -1,0 +1,7 @@
+ID,Function,Current State,Gap,Risk,Recommendation,Priority
+N-001,Govern,Maturity reviews are informal,No recurring governance review calendar,Medium,Establish quarterly governance review,Medium
+N-002,Identify,Asset inventory is spreadsheet-based,Limited automated discovery,High,Implement continuous asset inventory process,High
+N-003,Protect,MFA is partial,Password-only accounts remain,High,Expand MFA,High
+N-004,Detect,Central logging is incomplete,Detection visibility gaps,High,Centralize critical security logs,High
+N-005,Respond,IR plan exists but no recent tabletop,Response readiness uncertain,Medium,Run quarterly tabletop exercises,Medium
+N-006,Recover,Backups exist but recovery testing is inconsistent,Recovery capability not fully validated,High,Test critical restores regularly,High
