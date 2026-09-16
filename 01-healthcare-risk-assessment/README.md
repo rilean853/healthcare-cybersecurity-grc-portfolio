@@ -27,4 +27,4 @@ Identify cybersecurity risks affecting patient information, clinical operations,
 - Backup recovery testing is inconsistent.
 - Excessive access exists for selected shared accounts.
 
-All findings are fictional.
+All findings are made up to suite the projects.
