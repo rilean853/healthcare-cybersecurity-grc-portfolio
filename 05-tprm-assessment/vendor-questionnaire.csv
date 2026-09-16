@@ -1,0 +1,21 @@
+ID,Domain,Question,Evidence Requested
+TPRM-01,Governance,Does the vendor maintain a documented information security program?,Security program overview
+TPRM-02,Assurance,Does the vendor maintain a current SOC 2 Type II report?,SOC 2 report
+TPRM-03,Assurance,Is the organization certified to ISO/IEC 27001?,Certificate and scope
+TPRM-04,IAM,Is MFA required for privileged accounts?,IAM policy/configuration evidence
+TPRM-05,IAM,Are access rights reviewed periodically?,Access review evidence
+TPRM-06,Encryption,Is sensitive data encrypted in transit?,Encryption standard
+TPRM-07,Encryption,Is sensitive data encrypted at rest?,Encryption standard
+TPRM-08,Vulnerability,Are vulnerability scans performed regularly?,Vulnerability management policy
+TPRM-09,Testing,Is penetration testing performed periodically?,Executive summary/report
+TPRM-10,Incident Response,Is there a documented incident response plan?,IR plan
+TPRM-11,Incident Response,Are security incidents contractually notified within defined timelines?,Contract language
+TPRM-12,BCDR,Is disaster recovery tested periodically?,DR test summary
+TPRM-13,BCDR,Are backups tested for restoration?,Backup test evidence
+TPRM-14,Privacy,Does the vendor document data retention and deletion?,Data retention policy
+TPRM-15,Subprocessors,Does the vendor maintain a subprocessors list?,Subprocessor list
+TPRM-16,Personnel,Are background checks performed where appropriate?,Screening policy
+TPRM-17,Training,Is annual security awareness training required?,Training metrics
+TPRM-18,Logging,Are security-relevant events logged and monitored?,Logging standard
+TPRM-19,Change Management,Are material system changes subject to change control?,Change policy
+TPRM-20,Breach History,Does the vendor maintain a process for tracking security incidents and breaches?,Incident register summary
