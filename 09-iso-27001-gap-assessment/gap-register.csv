@@ -1,0 +1,6 @@
+ID,Theme,Finding,Impact,Recommendation,Priority
+ISO-001,ISMS Scope,Scope is not formally documented,Governance ambiguity,Document and approve ISMS scope,High
+ISO-002,Risk Assessment,Risk criteria differ by department,Inconsistent decisions,Define common risk methodology,High
+ISO-003,Supplier Security,Vendor reviews lack consistent evidence requirements,Third-party risk visibility gaps,Standardize supplier assessment,Medium
+ISO-004,Internal Audit,Audit calendar is informal,Reduced assurance,Establish risk-based internal audit schedule,Medium
+ISO-005,Continual Improvement,Corrective actions lack recurring management review,Delayed improvement,Create corrective action governance,Medium
