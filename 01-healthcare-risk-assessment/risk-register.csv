@@ -1,0 +1,16 @@
+Risk ID,Asset/Process,Threat,Vulnerability,Likelihood,Impact,Inherent Risk,Existing Control,Residual Risk,Treatment,Owner,Target
+R-001,EHR,Credential theft,MFA not universal,4,5,20,Admin MFA only,15,Mitigate,IT Manager,30 days
+R-002,Endpoints,Ransomware,Patch SLA not enforced,4,5,20,Endpoint protection,12,Mitigate,IT Manager,30 days
+R-003,Vendor Data,Third-party breach,Limited vendor review,3,5,15,Contract review,10,Mitigate,Security Lead,45 days
+R-004,Backups,Ransomware/data loss,Recovery tests inconsistent,3,5,15,Daily backups,9,Mitigate,IT Manager,45 days
+R-005,EHR,Excessive access,Shared clinical account,3,5,15,Password policy,10,Mitigate,Application Owner,30 days
+R-006,Email,Phishing,Limited simulation program,4,4,16,Annual training,10,Mitigate,Security Lead,60 days
+R-007,Network,Unauthorized access,Flat internal network,3,4,12,Firewall,8,Mitigate,Network Admin,90 days
+R-008,Medical Devices,Device compromise,Legacy firmware,3,5,15,Vendor support,10,Mitigate,Clinical Engineering,90 days
+R-009,Cloud Storage,Data exposure,Permissions not reviewed quarterly,3,5,15,Access groups,9,Mitigate,Cloud Admin,60 days
+R-010,HR Systems,Insider misuse,Termination workflow delay,2,5,10,HR checklist,6,Mitigate,HR Manager,30 days
+R-011,Remote Access,Account compromise,VPN exceptions,3,4,12,VPN logging,8,Mitigate,IT Manager,45 days
+R-012,Incident Response,Delayed response,No formal tabletop schedule,3,4,12,Informal procedure,9,Mitigate,Security Lead,60 days
+R-013,Asset Inventory,Unknown assets,Inventory not automated,3,4,12,Spreadsheet,8,Mitigate,IT Manager,90 days
+R-014,Data Disposal,Data leakage,Inconsistent media disposal evidence,2,4,8,Vendor disposal,5,Mitigate,Compliance Lead,60 days
+R-015,Security Governance,Control drift,No recurring control review calendar,3,4,12,Annual review,8,Mitigate,Security Lead,60 days
