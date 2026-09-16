@@ -1,0 +1,11 @@
+Asset ID,Asset,Owner,Location,Data Type,Classification,Criticality
+A-001,EHR Platform,Application Owner,Cloud,PHI,Restricted,Critical
+A-002,Clinical Laptops,IT,Office/Remote,PHI,Restricted,High
+A-003,Email Platform,IT,Cloud,Internal/PHI,Restricted,Critical
+A-004,Network Firewall,Network Admin,Primary Office,Security Configuration,Confidential,Critical
+A-005,HR System,HR,Cloud,Employee Data,Confidential,High
+A-006,Billing Platform,Finance,Cloud,Patient Billing,Confidential,High
+A-007,Backup Platform,IT,Cloud,PHI/Business Data,Restricted,Critical
+A-008,Wi-Fi Controller,Network Admin,Primary Office,Network Data,Internal,High
+A-009,Medical Device Fleet,Clinical Engineering,Clinics,Clinical Data,Restricted,Critical
+A-010,Security Logs,Security Lead,Cloud,Security Events,Confidential,High
