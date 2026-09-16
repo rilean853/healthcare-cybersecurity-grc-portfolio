@@ -1,0 +1,6 @@
+Finding,Domain,Observation,Inherent Risk,Control Strength,Residual Risk,Recommendation,Priority
+F-01,IAM,MFA is mandatory for administrators but not all workforce accounts,High,Partial,Medium,Expand MFA to all workforce accounts,High
+F-02,BCDR,Disaster recovery testing occurs every two years,High,Partial,Medium,Test critical recovery procedures at least annually,High
+F-03,Vulnerability,Quarterly scanning is documented,Medium,Strong,Low,Maintain current cadence and track remediation SLAs,Medium
+F-04,Testing,Annual penetration testing is documented,Medium,Strong,Low,Continue annual testing and track critical findings,Medium
+F-05,Subprocessors,Subprocessor inventory is maintained but customer notification process is unclear,Medium,Partial,Medium,Clarify notification and review process contractually,Medium
