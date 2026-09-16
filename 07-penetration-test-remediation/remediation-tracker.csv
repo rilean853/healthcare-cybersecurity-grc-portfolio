@@ -1,0 +1,6 @@
+Finding,Severity,Owner,Remediation,Due Date,Verification
+PT-01,Critical,Infrastructure Lead,Patch and harden remote service,7 days,Retest required
+PT-02,High,IAM Owner,Remove unnecessary privileged access,14 days,Access review
+PT-03,Medium,Application Owner,Apply secure headers,30 days,Configuration validation
+PT-04,High,System Owner,Enforce stronger authentication controls,14 days,Retest
+PT-05,Low,Application Owner,Reduce version disclosure,90 days,Validation
